@@ -11,4 +11,4 @@ Diseño centrado en el uso:  El diseño esta enfocado en el uso y tareas a cumpl
 
 ## Sintesis de explicación Arduino:
 Fue explicado el hardware de la placa arduino .
-Arduino Mega y Arduino Uno
+Arduino Mega y Arduino Uno ,en donde se presentanta sus distintas funciones como lo son los botones , controles, conectores , y la funcion especificade cada uno de los pines; sus tolerencias de oltaje y el maximo de amperaje.
