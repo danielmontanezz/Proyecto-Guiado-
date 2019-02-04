@@ -10,6 +10,4 @@
 Diseño centrado en el uso:  El diseño esta enfocado en el uso y tareas a cumplir del artefacto dejando aun lado la relevancia del usuario, es decir es un enfoque de "uso" y no de "usuario". Aunque se debe tener en cuenta el limite entre la funcion del artefacto y la utilidad que el usuario este enfoque resulta ideal para cubrir las necesidades del usuario.
 
 ## Sintesis de explicación Arduino:
-
-
-
+Fue explicado el hardware de la placa arduino 
