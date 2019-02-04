@@ -11,3 +11,4 @@ Diseño centrado en el uso:  El diseño esta enfocado en el uso y tareas a cumpl
 
 ## Sintesis de explicación Arduino:
 Fue explicado el hardware de la placa arduino 
+Arduino Mega y Arduino Uno
