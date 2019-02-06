@@ -13,7 +13,7 @@ Diseño centrado en el uso:  El diseño esta enfocado en el uso y tareas a cumpl
 ### Sintesis de explicación Arduino:
 La placa ARDUINO MEGA fue entregada al lider del equipo.
 Fue explicado el hardware de la placa arduino .
-Arduino Mega y Arduino Uno ,en donde se presentanta sus distintas funciones como lo son los botones , controles, conectores , y la funcion especificade cada uno de los pines; sus tolerencias de oltaje y el maximo de amperaje.
+Arduino Mega y Arduino Uno ,en donde se presentanta sus distintas funciones como lo son los botones , controles, conectores , y la funcion especifica de cada uno de los pines; sus tolerencias de voltaje y el máximo de amperaje.
 
 ### Diferencias entre Ardino MEGA y Arduino UNO
 #### El tamaño: 
