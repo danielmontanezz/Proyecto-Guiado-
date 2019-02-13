@@ -9,3 +9,10 @@ Diagrama Esquematico
 ![sensor](https://user-images.githubusercontent.com/47116861/52674260-0b1da900-2ef1-11e9-8dc0-4a85b742dfd8.png)
 Montaje Fisico 
 ======
+
+
+
+
+
+
+Fecha: 11/2/18 
