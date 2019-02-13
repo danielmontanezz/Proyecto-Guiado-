@@ -2,11 +2,11 @@ SENSOR DE MOVIMIENTO
 ======
 Materiales
 ======
-          -Placa Arduino Mega
+          -Placa Arduino Mega 2560
           -Conector de placa Arduino
           -Protoboard
-          -Resistencias
-          -LEDS
+          -Resistencia 220ohm
+          -Diodo Led
           -Jumpers
           -Sensor PIR para Arduino
 
