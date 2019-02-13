@@ -1,11 +1,11 @@
 # Sensor de Sonido
 
 ## Materiales
-          -Placa Arduino Mega
+          -Placa Arduino Mega 2560
           -Conector de placa Arduino
           -Protoboard
-          -Resistencias
-          -LEDS
+          -Resistencia 220ohm
+          -LDiodo Led
           -Jumpers
           -Sensor ultrasonico HC-SR04
 
