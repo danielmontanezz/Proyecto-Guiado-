@@ -8,7 +8,7 @@ Materiales
           -Resistencias
           -LEDS
           -Jumpers
-          -Sensor ultrasonico HC-SR04
+          -Sensor PIR para Arduino
 
 
 Diagrama Pictorico
