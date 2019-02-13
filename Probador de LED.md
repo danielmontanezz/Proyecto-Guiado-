@@ -3,8 +3,7 @@ Funcionamiento del probador de LED
 
 Mediante la placa de Arduino conectada a la unidad del computador emitira el voltaje necesario para que el circuito montado en la protoboard funcione hacieno que el LED emita luz.
 
-*Diagrama Esquematico
-------
+
 Diagrama Pictorico
 ------
 ![untitled sketch_bb](https://user-images.githubusercontent.com/47116861/52540983-e5ac6600-2d5d-11e9-8bab-3782aac6b64f.png)
