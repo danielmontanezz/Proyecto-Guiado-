@@ -1,3 +1,11 @@
+Materiales
+======
+             -Placa Arduino Mega 2560
+             -Protoboard
+             -Resistencia 220 ohm
+             -Diodo LED
+             -Jumpers
+
 Funcionamiento del probador de LED
 ======
 
