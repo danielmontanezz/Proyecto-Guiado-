@@ -1,10 +1,19 @@
 # Sensor de Sonido
 
+## Materiales
+-Placa Arduino Mega
+-Conector de placa Arduino
+-Protoboard
+-Resistencias
+-LEDS
+-Jumpers
+-Sensor ultrasonico HC-SR04
+
 ## Diagrama Pictorico
-![sensor2](https://user-images.githubusercontent.com/47116861/52742024-d3703900-2fa4-11e9-90dc-9b84e100d308.png)
+![camilo](https://user-images.githubusercontent.com/47116861/52743416-fb14d080-2fa7-11e9-8510-e2cad729f4c7.png)
 
 ## Diagrama Esquematico
-![sensor](https://user-images.githubusercontent.com/47116861/52742025-d3703900-2fa4-11e9-8259-8348ea75f6e6.png)
+![caliljoj](https://user-images.githubusercontent.com/47116861/52743408-f7814980-2fa7-11e9-8249-6a652f3a683c.png)
 
 ## Montaje Fisico 
 
