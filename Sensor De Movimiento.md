@@ -1,5 +1,15 @@
 SENSOR DE MOVIMIENTO
 ======
+Materiales
+======
+          -Placa Arduino Mega
+          -Conector de placa Arduino
+          -Protoboard
+          -Resistencias
+          -LEDS
+          -Jumpers
+          -Sensor ultrasonico HC-SR04
+
 
 Diagrama Pictorico
 ======
