@@ -14,6 +14,8 @@ hacieno que el LED emita luz.
 
 *Diagrama Físico
 ------
+![whatsapp image 2019-02-06 at 6 47 07 pm](https://user-images.githubusercontent.com/47116861/52678571-217f3100-2f00-11e9-895b-5b4940a0d8b4.jpeg)
+
 
 
 
