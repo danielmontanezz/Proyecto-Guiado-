@@ -16,3 +16,6 @@ En el UNO los puertos dijitales van del 0 1l 14, mientras que en el MEGA van del
 En el caso del Arduino UNO van del a0 al a5, y en el Arduino MEGA van del a0 al a15.
 #### Puertos de comunicacion:
 El Arduino Mega presenta 4 puestos de transmisión/recepcion , mientras que UNO solo posee un puerto de este tipo.
+
+
+
