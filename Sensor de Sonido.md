@@ -11,7 +11,7 @@
           
           
 ## Funcionamiento
-   El funcionamiento del circuito se realiza a travez de una placa de arduino y de una protoboard, la placa de arduino va a ser la encargada de enviar la energia a la protoboard donde se encuentran el sensor y a los leds,y el sensor envia la señal a los leds, con lo cual entre mas cerca se encuentre un obejto al sensor los leds se iran prendiendo dependiendo de la cercania del obeto 
+   El funcionamiento del circuito se realiza a travez de una placa de arduino y de una protoboard, la placa de arduino va a ser la encargada de enviar la energia a la protoboard donde se encuentran el sensor y a los leds, y el sensor envia la señal a los leds, el sensor funciona de manera que mide la  distancia en pocos centímetros hasta varios metros. El sensor emite un sonido y mide el tiempo que la señal tarda en regresar. Con lo cual entre mas cerca se encuentre un obejto al sensor, los leds se iran prendiendo dependiendo de la cercania del objeto al sensor.
 ## Diagrama Pictorico
 ![camilo](https://user-images.githubusercontent.com/47116861/52743416-fb14d080-2fa7-11e9-8510-e2cad729f4c7.png)
 
