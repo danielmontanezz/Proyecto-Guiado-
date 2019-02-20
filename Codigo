@@ -1,1 +1,55 @@
+###sensor de distancia en arduino con leds 
+//sensor de prximidad al ser menor de 10cm envia un pulso de alerta
+al pin 13
+#define Pecho 6
+#define Ptrig 7
+long duration, distancia;
 
+void setup(){
+Serial .begin (5600);
+pinMode(Pecho, INPUT);
+pinMode(Ptrig, OUTPUT);
+pinMode(13,1);
+}
+ void loop(){
+
+digitalWrite(Ptring,LOW);
+delayMicroseconds(4);
+digitalWrite(Ptring,HIGH);
+delayMicroseconds(15);
+digitalWrite(Ptring,LOW);
+
+duration = pulseIn(Pecho, HIGH);
+distancia = (duration/4) / 29;
+
+if (distancia >= 500 || distancia <=0){
+Serial.printIn("---");
+}
+else{
+Serial.print(distancia);
+Serial.printIn("cm");
+digitalWrite(13,0);
+}
+
+if(distancia <=10 && distancia >=1){
+digitalWrite(13,1);
+Serial.printIn("Alarma.......");
+}
+delay(400);
+}
+###codigo de sensor PIR 
+nt sensorPin =2;
+int ledPin=3;
+
+void setup (){
+ pinMode(sensorPin, INPUT);
+ pinMode(ledPin, OUTPUT);
+}
+
+void loop (){
+  if (digitalRead(sensorPin)== HIGH){
+    digitalWrite(ledPin, HIGH);
+  } else {
+digitalWrite(ledPin, LOW);
+  }
+}
